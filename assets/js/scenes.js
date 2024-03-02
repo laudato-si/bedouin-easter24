@@ -95,7 +95,7 @@ var imggal_07 = new ScrollMagic.Scene({
 	duration: winy,
 	offset: winy*3,
 }).setTween(tween_imggal_07)
-.addIndicators({name: 'imggal'})
+// .addIndicators({name: 'imggal'})
 .setPin('.sec01')
 .addTo(controller);
 
